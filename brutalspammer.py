@@ -16,10 +16,10 @@ def baner():
 ╠╩╗├┬┘│ │ │ ├─┤│  ╚═╗├─┘├─┤││││││├┤ ├┬┘
 ╚═╝┴└─└─┘ ┴ ┴ ┴┴─┘╚═╝┴  ┴ ┴┴ ┴┴ ┴└─┘┴└─
 
-\t------------
+\t
 \nCreator: Hry Ar
 YouTube: HARRY ARBI
-GitHub : github.com/hryar/BrutalSpammer
+GitHub : github.com/hryar/Brutal-Spam-Sms
 ==========================================''')
 def kata(s):
     for c in s + "\n":
